@@ -157,10 +157,12 @@ a {
     }
     #about {
         margin-left: 35vw;
-        margin-top: 12vw;
         font-size: 4vw;
-        width: 70vw;
-        margin-left: 12vw;
+    	width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+        border-radius: 0;
+
     }
     #points {
         margin-top: 9vw;
