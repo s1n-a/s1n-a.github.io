@@ -147,7 +147,7 @@ a {
     float: right;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 650px) {
     body {
         height: 102vh; 
     }
